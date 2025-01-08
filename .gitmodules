@@ -1,0 +1,6 @@
+[submodule "scraper/src/fetcher_github"]
+	path = scraper/src/fetcher_github
+	url = https://github.com/SBKubric/github_scraper_fetcher
+[submodule "scraper/src/api"]
+	path = scraper/src/api
+	url = https://github.com/SBKubric/github_scraper_api
